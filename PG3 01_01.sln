@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PG3 01_01", "PG3 01_01.vcxproj", "{9C8EB39C-B224-4580-875C-301B4D018C97}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ソリューション項目", "ソリューション項目", "{AC0EA7E0-16B6-4C65-8EE9-018044AEF2F4}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C8EB39C-B224-4580-875C-301B4D018C97}.Debug|x64.ActiveCfg = Debug|x64
+		{9C8EB39C-B224-4580-875C-301B4D018C97}.Debug|x64.Build.0 = Debug|x64
+		{9C8EB39C-B224-4580-875C-301B4D018C97}.Debug|x86.ActiveCfg = Debug|Win32
+		{9C8EB39C-B224-4580-875C-301B4D018C97}.Debug|x86.Build.0 = Debug|Win32
+		{9C8EB39C-B224-4580-875C-301B4D018C97}.Release|x64.ActiveCfg = Release|x64
+		{9C8EB39C-B224-4580-875C-301B4D018C97}.Release|x64.Build.0 = Release|x64
+		{9C8EB39C-B224-4580-875C-301B4D018C97}.Release|x86.ActiveCfg = Release|Win32
+		{9C8EB39C-B224-4580-875C-301B4D018C97}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B12C15F-1CFA-4C6F-A211-7E103F6233A5}
+	EndGlobalSection
+EndGlobal
