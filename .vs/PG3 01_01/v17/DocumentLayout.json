@@ -18,15 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -47,9 +43,9 @@
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\k023g\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\2024_2\u5E74\u6388\u696D\\PG3\\01_01\\PG3 01_01\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\k023g\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\2024_2\u5E74\u6388\u696D\\PG3\\01_01\\PG3 01_01\\main.cpp",
-              "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "ToolTip": "C:\\Users\\k023g\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\2024_2\u5E74\u6388\u696D\\PG3\\01_01\\PG3 01_01\\main.cpp*",
+              "RelativeToolTip": "main.cpp*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-07T08:45:36.173Z",
               "EditorCaption": ""
