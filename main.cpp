@@ -8,7 +8,7 @@ using namespace std;
 
 int main()
 {
-	vector<string>studentID{
+	vector<string>meibo{
 		"k022g0108@g.neec.ac.jp","k022g0045@g.neec.ac.jp","k022g0007@g.neec.ac.jp","k022g0015@g.neec.ac.jp","k022g0028@g.neec.ac.jp",
 		"k022g0049@g.neec.ac.jp","k022g0003@g.neec.ac.jp","k022g0044@g.neec.ac.jp","k022g0072@g.neec.ac.jp","k022g0055@g.neec.ac.jp",
 		"k021g1139@g.neec.ac.jp","k021g1485@g.neec.ac.jp","k021g1162@g.neec.ac.jp","k021g1278@g.neec.ac.jp","k020g1229@g.neec.ac.jp",
@@ -35,9 +35,9 @@ int main()
 		"k022g0012@g.neec.ac.jp","k022g0001@g.neec.ac.jp"
 	};
 
-	sort(studentID.begin(), studentID.end());
+	sort(meibo.begin(), meibo.end());
 
-	for (auto itr = studentID.begin(); itr != studentID.end(); ++itr)
+	for (auto itr = meibo.begin(); itr != meibo.end(); ++itr)
 	{
 		std::cout << *itr << "\n";
 	}
