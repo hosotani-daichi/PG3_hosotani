@@ -1,3 +1,2 @@
 ﻿  main.cpp
-C:\Users\k023g\OneDrive\デスクトップ\2024_2年授業\PG3\01_01\PG3 01_01\main.cpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
-LINK : fatal error LNK1168: ファイル C:\Users\k023g\OneDrive\デスクトップ\2024_2年授業\PG3\01_01\PG3 01_01\x64\Debug\PG3 01_01.exe を開いて書き込むことができません。
+  PG3 01_01.vcxproj -> C:\Users\k023g\OneDrive\デスクトップ\2024_2年授業\PG3\01_01\PG3 01_01\x64\Debug\PG3 01_01.exe
