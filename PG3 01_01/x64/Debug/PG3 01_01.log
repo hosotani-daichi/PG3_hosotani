@@ -1,2 +1,10 @@
-﻿  main.cpp
-  PG3 01_01.vcxproj -> C:\Users\k023g\OneDrive\デスクトップ\2024_2年授業\PG3\01_01\PG3 01_01\x64\Debug\PG3 01_01.exe
+﻿  ICommand.cpp
+  InputHandler.cpp
+  main.cpp
+C:\Users\k023g\OneDrive\デスクトップ\2024_2年授業\PG3\01_01\PG3 01_01\ICommand.h(2,10): error C1083: include ファイルを開けません。'Player.h':No such file or directory
+C:\Users\k023g\OneDrive\デスクトップ\2024_2年授業\PG3\01_01\PG3 01_01\InputHandler.h(2,10): error C1083: include ファイルを開けません。'ICommand.h':No such file or directory
+  Player.cpp
+C:\Users\k023g\OneDrive\デスクトップ\2024_2年授業\PG3\01_01\PG3 01_01\Player.h(2,10): error C1083: include ファイルを開けません。'Vector2.h':No such file or directory
+  Scene.cpp
+C:\Users\k023g\OneDrive\デスクトップ\2024_2年授業\PG3\01_01\PG3 01_01\InputHandler.h(2,10): error C1083: include ファイルを開けません。'ICommand.h':No such file or directory
+  コードを生成中...
