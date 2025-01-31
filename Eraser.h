@@ -1,13 +1,17 @@
 #pragma once
-#include"Pencil.h"
+#include "Stationery.h"
 
-class Eraser:public Pencil
+class Eraser :public Stationery
 {
 public:
+
 	Eraser();
 	~Eraser();
-	void Attack() override;
+	void StationeryStore() override;
 
-	private:
+private:
+
+	const char* name = "消しゴム";
+	const char* role = "書いた文字を消すもの";
 };
 

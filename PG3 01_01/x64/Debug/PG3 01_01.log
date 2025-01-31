@@ -1,40 +1,6 @@
-﻿  ClassTemplate.cpp
+﻿  Eraser.cpp
+  Pencil.cpp
+  Stationery.cpp
   main.cpp
-C:\Users\k023g\OneDrive\デスクトップ\2024_2年授業\PG3\01_01\PG3 01_01\ClassTemplate.h(21,30): warning C4244: 'return': 'Type2' から 'Type1' への変換です。データが失われる可能性があります。
-C:\Users\k023g\OneDrive\デスクトップ\2024_2年授業\PG3\01_01\PG3 01_01\ClassTemplate.h(21,30): warning C4244:         with
-C:\Users\k023g\OneDrive\デスクトップ\2024_2年授業\PG3\01_01\PG3 01_01\ClassTemplate.h(21,30): warning C4244:         [
-C:\Users\k023g\OneDrive\デスクトップ\2024_2年授業\PG3\01_01\PG3 01_01\ClassTemplate.h(21,30): warning C4244:             Type2=double
-C:\Users\k023g\OneDrive\デスクトップ\2024_2年授業\PG3\01_01\PG3 01_01\ClassTemplate.h(21,30): warning C4244:         ]
-C:\Users\k023g\OneDrive\デスクトップ\2024_2年授業\PG3\01_01\PG3 01_01\ClassTemplate.h(21,30): warning C4244:         and
-C:\Users\k023g\OneDrive\デスクトップ\2024_2年授業\PG3\01_01\PG3 01_01\ClassTemplate.h(21,30): warning C4244:         [
-C:\Users\k023g\OneDrive\デスクトップ\2024_2年授業\PG3\01_01\PG3 01_01\ClassTemplate.h(21,30): warning C4244:             Type1=float
-C:\Users\k023g\OneDrive\デスクトップ\2024_2年授業\PG3\01_01\PG3 01_01\ClassTemplate.h(21,30): warning C4244:         ]
-C:\Users\k023g\OneDrive\デスクトップ\2024_2年授業\PG3\01_01\PG3 01_01\ClassTemplate.h(21,30): warning C4244: 'return': 'Type2' から 'Type1' への変換です。データが失われる可能性があります。
-C:\Users\k023g\OneDrive\デスクトップ\2024_2年授業\PG3\01_01\PG3 01_01\ClassTemplate.h(21,30): warning C4244:         with
-C:\Users\k023g\OneDrive\デスクトップ\2024_2年授業\PG3\01_01\PG3 01_01\ClassTemplate.h(21,30): warning C4244:         [
-C:\Users\k023g\OneDrive\デスクトップ\2024_2年授業\PG3\01_01\PG3 01_01\ClassTemplate.h(21,30): warning C4244:             Type2=int
-C:\Users\k023g\OneDrive\デスクトップ\2024_2年授業\PG3\01_01\PG3 01_01\ClassTemplate.h(21,30): warning C4244:         ]
-C:\Users\k023g\OneDrive\デスクトップ\2024_2年授業\PG3\01_01\PG3 01_01\ClassTemplate.h(21,30): warning C4244:         and
-C:\Users\k023g\OneDrive\デスクトップ\2024_2年授業\PG3\01_01\PG3 01_01\ClassTemplate.h(21,30): warning C4244:         [
-C:\Users\k023g\OneDrive\デスクトップ\2024_2年授業\PG3\01_01\PG3 01_01\ClassTemplate.h(21,30): warning C4244:             Type1=float
-C:\Users\k023g\OneDrive\デスクトップ\2024_2年授業\PG3\01_01\PG3 01_01\ClassTemplate.h(21,30): warning C4244:         ]
-C:\Users\k023g\OneDrive\デスクトップ\2024_2年授業\PG3\01_01\PG3 01_01\ClassTemplate.h(21,30): warning C4244: 'return': 'Type2' から 'Type1' への変換です。データが失われる可能性があります。
-C:\Users\k023g\OneDrive\デスクトップ\2024_2年授業\PG3\01_01\PG3 01_01\ClassTemplate.h(21,30): warning C4244:         with
-C:\Users\k023g\OneDrive\デスクトップ\2024_2年授業\PG3\01_01\PG3 01_01\ClassTemplate.h(21,30): warning C4244:         [
-C:\Users\k023g\OneDrive\デスクトップ\2024_2年授業\PG3\01_01\PG3 01_01\ClassTemplate.h(21,30): warning C4244:             Type2=double
-C:\Users\k023g\OneDrive\デスクトップ\2024_2年授業\PG3\01_01\PG3 01_01\ClassTemplate.h(21,30): warning C4244:         ]
-C:\Users\k023g\OneDrive\デスクトップ\2024_2年授業\PG3\01_01\PG3 01_01\ClassTemplate.h(21,30): warning C4244:         and
-C:\Users\k023g\OneDrive\デスクトップ\2024_2年授業\PG3\01_01\PG3 01_01\ClassTemplate.h(21,30): warning C4244:         [
-C:\Users\k023g\OneDrive\デスクトップ\2024_2年授業\PG3\01_01\PG3 01_01\ClassTemplate.h(21,30): warning C4244:             Type1=int
-C:\Users\k023g\OneDrive\デスクトップ\2024_2年授業\PG3\01_01\PG3 01_01\ClassTemplate.h(21,30): warning C4244:         ]
-C:\Users\k023g\OneDrive\デスクトップ\2024_2年授業\PG3\01_01\PG3 01_01\ClassTemplate.h(21,30): warning C4244: 'return': 'Type2' から 'Type1' への変換です。データが失われる可能性があります。
-C:\Users\k023g\OneDrive\デスクトップ\2024_2年授業\PG3\01_01\PG3 01_01\ClassTemplate.h(21,30): warning C4244:         with
-C:\Users\k023g\OneDrive\デスクトップ\2024_2年授業\PG3\01_01\PG3 01_01\ClassTemplate.h(21,30): warning C4244:         [
-C:\Users\k023g\OneDrive\デスクトップ\2024_2年授業\PG3\01_01\PG3 01_01\ClassTemplate.h(21,30): warning C4244:             Type2=float
-C:\Users\k023g\OneDrive\デスクトップ\2024_2年授業\PG3\01_01\PG3 01_01\ClassTemplate.h(21,30): warning C4244:         ]
-C:\Users\k023g\OneDrive\デスクトップ\2024_2年授業\PG3\01_01\PG3 01_01\ClassTemplate.h(21,30): warning C4244:         and
-C:\Users\k023g\OneDrive\デスクトップ\2024_2年授業\PG3\01_01\PG3 01_01\ClassTemplate.h(21,30): warning C4244:         [
-C:\Users\k023g\OneDrive\デスクトップ\2024_2年授業\PG3\01_01\PG3 01_01\ClassTemplate.h(21,30): warning C4244:             Type1=int
-C:\Users\k023g\OneDrive\デスクトップ\2024_2年授業\PG3\01_01\PG3 01_01\ClassTemplate.h(21,30): warning C4244:         ]
   コードを生成中...
   PG3 01_01.vcxproj -> C:\Users\k023g\OneDrive\デスクトップ\2024_2年授業\PG3\01_01\PG3 01_01\x64\Debug\PG3 01_01.exe

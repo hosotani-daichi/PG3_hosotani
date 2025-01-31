@@ -1,12 +1,17 @@
+#include "Stationery.h"
 #pragma once
-class Pencil
+
+class Pencil :public Stationery
 {
 public:
-	Pencil();
-	virtual~Pencil();
-	virtual void Attack();
 
-protected:
-	const char* name;
+	Pencil();
+	~Pencil();
+	void StationeryStore() override;
+
+private:
+
+	const char* name = "えんぴつ";
+	const char* role = "文字を書くもの";
 };
 

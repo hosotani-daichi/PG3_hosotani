@@ -1,5 +1,13 @@
 #pragma once
-class Stationery
-{
-};
 
+class Stationery {
+public:
+
+	Stationery();
+	virtual ~Stationery();
+	virtual void StationeryStore();
+
+private:
+
+	const char* name;
+};
