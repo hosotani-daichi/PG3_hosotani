@@ -128,11 +128,20 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ClassTemplate.cpp" />
+    <ClCompile Include="Eraser.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Pencil.cpp" />
+    <ClCompile Include="Stationery.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Blue.h" />
     <ClInclude Include="ClassTemplate.h" />
+    <ClInclude Include="Colors.h" />
+    <ClInclude Include="Eraser.h" />
+    <ClInclude Include="Pencil.h" />
+    <ClInclude Include="Red.h" />
+    <ClInclude Include="Stationery.h" />
+    <ClInclude Include="White.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
