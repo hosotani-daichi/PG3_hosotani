@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,6 +42,19 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\k023g\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\2024_2\u5E74\u6388\u696D\\PG3\\01_01\\PG3 01_01\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\k023g\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\2024_2\u5E74\u6388\u696D\\PG3\\01_01\\PG3 01_01\\main.cpp*",
+              "RelativeToolTip": "main.cpp*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-07T08:45:36.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": ".editorconfig",
               "DocumentMoniker": "C:\\Users\\k023g\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\2024_2\u5E74\u6388\u696D\\PG3\\01_01\\PG3 01_01\\.editorconfig",
@@ -51,19 +64,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-10-07T09:12:58.719Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\k023g\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\2024_2\u5E74\u6388\u696D\\PG3\\01_01\\PG3 01_01\\main.cpp",
-              "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\k023g\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\2024_2\u5E74\u6388\u696D\\PG3\\01_01\\PG3 01_01\\main.cpp",
-              "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAowAIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-07T08:45:36.173Z",
               "EditorCaption": ""
             }
           ]
