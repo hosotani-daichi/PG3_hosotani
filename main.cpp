@@ -1,27 +1,17 @@
 #include<stdio.h>
 #include"Pencil.h"
 #include"Eraser.h"
+#include "Stationery.h"
 
 int main() {
-	Stationery* Stationery[3];
+    Stationery* Stationery1 = new Pencil();
+    Stationery* Stationery2 = new Eraser();
 
+    Stationery1->sound();
+    Stationery2->sound();
 
-	for (int i = 0; i < 3; i++) {
-		if (i < 1) {
-			Stationery[i] = new Pencil;
-		}
-		else {
-			Stationery[i] = new Eraser;
-		}
-	}
+    delete Stationery1;
+    delete Stationery2;
 
-	for (int i = 0; i < 3; i++) {
-		Stationery[i]->StationeryStore();
-	}
-
-	for (int i = 0; i < 3; i++) {
-		delete Stationery[i];
-	}
-
-	return 0;
+    return 0;
 }
