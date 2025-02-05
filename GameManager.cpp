@@ -2,7 +2,7 @@
 #include "IScene.h"
 #include "TitleScene.h"
 #include "StageScene.h"
-#include "ClearScene.h"
+#include "ClearSecene.h"
 #include <Novice.h>
 
 GameManager::GameManager() {
