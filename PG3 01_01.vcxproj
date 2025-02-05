@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ClearScene.cpp" />
+    <ClCompile Include="ClearSecene.cpp" />
     <ClCompile Include="GameManager.cpp" />
     <ClCompile Include="IScene.cpp" />
     <ClCompile Include="main.cpp" />
@@ -135,7 +135,7 @@
     <ClCompile Include="TitleScene.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="ClearScene.h" />
+    <ClInclude Include="ClearSecene.h" />
     <ClInclude Include="GameManager.h" />
     <ClInclude Include="IScene.h" />
     <ClInclude Include="StageScene.h" />
