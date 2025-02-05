@@ -1,5 +1,5 @@
 #pragma once
-#include <ICommand.h>
+#include "ICommand.h"
 #include <Novice.h>
 
 class InputHandler
@@ -14,4 +14,3 @@ private:
 	ICommand* pressKeyD_;
 	ICommand* pressKeyA_;
 };
-

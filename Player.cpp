@@ -14,9 +14,9 @@ void Player::Draw() {
 }
 
 void Player::MoveRight() {
-	this->position_.x += this->speed_;
+	this->position_.x += speed_;
 }
 
 void Player::MoveLeft() {
-	this->position_.x -= this->speed_;
+	this->position_.x -= speed_;
 }

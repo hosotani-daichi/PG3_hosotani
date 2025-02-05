@@ -20,4 +20,3 @@ private:
 
 	float speed_ = 3.0f;
 };
-

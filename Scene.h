@@ -17,4 +17,3 @@ private:
 	ICommand* iCommand_ = nullptr;
 	Player* player_;
 };
-
